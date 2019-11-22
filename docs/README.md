@@ -1,4 +1,7 @@
 # Deep-Learning-with-PyTorch-Chinese
+
+### 由于版权问题，目前正在联系原作者，一旦允许就可以进行翻译啦~
+
 本项目（[网页版传送门](https://tangshusen.me/Deep-Learning-with-PyTorch-Chinese)）将PyTorch官方书籍[《Deep learning with PyTorch》（基本摘录版）](https://pytorch.org/deep-learning-with-pytorch)翻译成中文并给出全书可运行的相关代码。持续更新中...
 
 [This project](https://tangshusen.me/Deep-Learning-with-PyTorch-Chinese) translates the PyTorch official book "Deep learning with PyTorch" (essential excerpt version) into Chinese.
