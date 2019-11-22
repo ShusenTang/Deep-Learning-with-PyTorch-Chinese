@@ -12,7 +12,7 @@
 <img width="300" src="img/twitter.png" alt="封面"/>
 </div>
 
-## 1. 仓库简介
+## 2. 仓库简介
 由于本书原版是全英文版，而且只是在书中附带代码没有配套可运行的代码。所以本仓库就是将原书翻译成中文版并且给出可运行的相关代码。
 
 本仓库主要包含code和docs两个文件夹（外加一些数据存放在data中）。其中code文件夹就是每章相关jupyter notebook代码；docs文件夹就是markdown格式的《Deep learning with PyTorch》书中的相关内容的中文翻译，然后利用[docsify](https://docsify.js.org/#/zh-cn/)将网页文档部署到GitHub Pages上。欢迎对本项目做出贡献或提出issue。
