@@ -1,7 +1,5 @@
 # Deep-Learning-with-PyTorch-Chinese
 
-### 由于版权问题，目前正在联系原作者，一旦允许就可以进行翻译啦~
-
 本项目（[网页版传送门](https://tangshusen.me/Deep-Learning-with-PyTorch-Chinese)）将PyTorch官方书籍[《Deep learning with PyTorch》（基本摘录版）](https://pytorch.org/deep-learning-with-pytorch)翻译成中文并给出全书可运行的相关代码。持续更新中...
 
 [This project](https://tangshusen.me/Deep-Learning-with-PyTorch-Chinese) translates the PyTorch official book "Deep learning with PyTorch" (essential excerpt version) into Chinese.
@@ -27,9 +25,9 @@
 因此可作为快速入门PyTorch的教程。此书完整版目前也可免费预览，[传送门](https://www.manning.com/books/deep-learning-with-pytorch)。
 
 ## 2. 项目简介
-本书是全英文版，本项目将原书翻译成中文并且给出可运行的相关代码。
+本项目将原书翻译成中文并且给出可运行的相关代码。
 
-本[仓库](https://github.com/ShusenTang/Deep-Learning-with-PyTorch-Chinese)主要包含code和docs两个文件夹（外加一些数据存放在data中）。其中code文件夹就是每章相关jupyter notebook代码；docs文件夹就是markdown格式的《Deep learning with PyTorch》书中的相关内容的中文翻译，然后利用[docsify](https://docsify.js.org/#/zh-cn/)将网页文档部署到[GitHub Pages](https://tangshusen.me/Deep-Learning-with-PyTorch-Chinese)上。欢迎对本项目做出贡献或提出issue。
+本[仓库](https://github.com/ShusenTang/Deep-Learning-with-PyTorch-Chinese)主要包含code和docs两个文件夹（外加一些数据存放在data中）。其中code文件夹就是每章相关jupyter notebook代码；docs文件夹就是markdown格式的《Deep learning with PyTorch》（基本摘录版）书中的相关内容的中文翻译，然后利用[docsify](https://docsify.js.org/#/zh-cn/)将网页文档部署到[GitHub Pages](https://tangshusen.me/Deep-Learning-with-PyTorch-Chinese)上。欢迎对本项目做出贡献或提出issue。
 
 
 ## 3. 使用方法
@@ -39,3 +37,16 @@ TODO
 ## 4. 目录
 
 TODO
+
+
+## 5. 声明
+
+* 译者纯粹出于学习目的与个人兴趣而进行翻译，不追求任何经济利益；
+* 本项目仅限于学习研究目的的使用，译者保留对此项目的署名权，任何转载必须注明出处，但不得用于任何商业用途；
+* 使用本项目对原著的侵权行为或者违反知识产权保护法的任何行为，与译者无关；
+* 有能力阅读英文书籍者请阅读原版或购买完整版书籍。
+
+## LICENSE
+CC BY-NC（署名-非商业性使用）4.0
+
+
