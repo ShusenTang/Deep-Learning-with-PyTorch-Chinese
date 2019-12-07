@@ -16,7 +16,7 @@
 </div>
 
 需要注意的是，[PyTorch官网提供的PDF](https://pytorch.org/deep-learning-with-pytorch)是基本摘录版（Essential Excerpts），共141页，内容包括以下五个部分：
-1. 深度学习和PyTorch简介
+1. 深度学习与PyTorch简介
 2. 从一个张量开始
 3. 使用张量表示真实数据
 4. 学习机制
@@ -31,13 +31,28 @@
 
 
 ## 3. 使用方法
-TODO
+
+本项目面向对PyTorch感兴趣，尤其是想快速入门PyTorch的童鞋。本项目并不要求你有任何深度学习或者机器学习的背景知识，你只需了解基础的数学和编程，如基础的线性代数、微分和概率，以及基础的Python编程。
+
+本仓库的文档包含一些latex公式，但github的markdown原生是不支持公式显示的，而docs文件夹已经利用[docsify](https://docsify.js.org/#/zh-cn/)被部署到了GitHub Pages上，所以你可以方便地访问[本项目网页版](https://tangshusen.me/Deep-Learning-with-PyTorch-Chinese)。如果你想跑一下相关代码的话需要把本项目clone下来，然后运行code文件夹下相关代码。
+
+由于本项目所翻译的是基本摘录版，仅141页，所以适合快速入门PyTorch。如果你想对PyTorch以及深度学习（例如计算机视觉、自然语言处理等）有更深入的学习，可能还需要更多的资料，感兴趣的可以参考我的另一个项目[Dive-into-DL-PyTorch](http://tangshusen.me/Dive-into-DL-PyTorch/)。
 
 
 ## 4. 目录
+* [简介]()
+* [1. 深度学习与PyTorch简介](chapter1/1.0.md)
+    * [1.1 什么是PyTorch](chapter1/1.1.md)
+    * [1.2 这本书讲了什么](chapter1/1.2.md)
+    * [1.3 为什么是PyTorch](chapter1/1.3.md)
+    * [1.4 PyTorch包含的加速组件](chapter1/1.4.md)
+* [2. 从张量开始](chapter2/2.0.md)
+    * [2.1 张量基础](chapter2/2.1.md)
+    * [2.2 张量与存储](chapter2/2.2.md)
 
-TODO
-
+* 3. 使用张量表示真实数据
+* 4. 学习机制
+* 5. 使用神经网络拟合数据
 
 ## 5. 声明
 
