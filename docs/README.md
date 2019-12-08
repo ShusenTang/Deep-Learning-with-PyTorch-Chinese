@@ -44,11 +44,13 @@
 * [1. 深度学习与PyTorch简介](chapter1/1.0.md)
     * [1.1 什么是PyTorch](chapter1/1.1.md)
     * [1.2 这本书讲了什么](chapter1/1.2.md)
-    * [1.3 为什么是PyTorch](chapter1/1.3.md)
-    * [1.4 PyTorch包含的加速组件](chapter1/1.4.md)
+    * [1.3 为什么使用PyTorch](chapter1/1.3.md)
+    * [1.4 PyTorch包含的组件](chapter1/1.4.md)
 * [2. 从张量开始](chapter2/2.0.md)
     * [2.1 张量基础](chapter2/2.1.md)
     * [2.2 张量与存储](chapter2/2.2.md)
+    * 持续更新中...
+    
 
 * 3. 使用张量表示真实数据
 * 4. 学习机制
