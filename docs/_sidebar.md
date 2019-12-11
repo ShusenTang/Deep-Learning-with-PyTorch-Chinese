@@ -10,3 +10,4 @@
     * [2.3 尺寸、存储偏移与步长](chapter2/2.3.md)
     * [2.4 数据类型](chapter2/2.4.md)
     * [2.5 索引张量](chapter2/2.5.md)
+    * [2.6 与NumPy的互通性](chapter2/2.6.md)
