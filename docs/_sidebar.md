@@ -11,3 +11,6 @@
     * [2.4 数据类型](chapter2/2.4.md)
     * [2.5 索引张量](chapter2/2.5.md)
     * [2.6 与NumPy的互通性](chapter2/2.6.md)
+    * [2.7 序列化张量](chapter2/2.8.md)
+    * [2.8 将张量转移到GPU上运行](chapter2/2.8.md)
+    * [2.9 张量API](chapter2/2.9.md)
