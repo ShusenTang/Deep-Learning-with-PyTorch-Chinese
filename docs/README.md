@@ -57,6 +57,7 @@
     * [2.8 将张量转移到GPU上运行](chapter2/2.8.md)
     * [2.9 张量API](chapter2/2.9.md)
 * [3. 使用张量表示真实数据](chapter3/3.0.md)
+    * [3.1 表格数据](chapter3/3.1.md)
 * [4. 学习机制](chapter4/4.0.md)
     * [4.1 学习就是参数估计](chapter4/4.1.md)
 
