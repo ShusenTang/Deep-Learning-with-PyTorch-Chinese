@@ -60,6 +60,8 @@
     * [3.1 表格数据](chapter3/3.1.md)
     * [3.2 时间序列](chapter3/3.2.md)
     * [3.3 文本数据](chapter3/3.3.md)
+    * [3.4 图像数据](chapter3/3.4.md)
+    * [3.5 体积数据](chapter3/3.5.md)
 * [4. 学习机制](chapter4/4.0.md)
     * [4.1 学习就是参数估计](chapter4/4.1.md)
 
