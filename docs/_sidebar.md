@@ -25,5 +25,5 @@
     * [4.2 PyTorch自动求导](chapter4/4.2.md)
 * [5. 使用神经网络拟合数据](chapter5/5.0.md)
     * [5.1 神经元](chapter5/5.1.md)
-    * 5.2 PyTorch的nn模块
+    * [5.2 PyTorch的nn模块](chapter5/5.2.md)
     * 5.3 nn的子类
