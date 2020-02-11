@@ -1,6 +1,6 @@
 # Deep-Learning-with-PyTorch-Chinese
 
-本项目（[网页版传送门](https://tangshusen.me/Deep-Learning-with-PyTorch-Chinese)）将PyTorch官方书籍[《Deep learning with PyTorch》（基本摘录版）](https://pytorch.org/deep-learning-with-pytorch)翻译成中文并给出全书可运行的相关代码。持续更新中...
+本项目（[网页版传送门](https://tangshusen.me/Deep-Learning-with-PyTorch-Chinese)）将PyTorch官方书籍[《Deep learning with PyTorch》（基本摘录版）](https://pytorch.org/deep-learning-with-pytorch)翻译成中文并给出全书可运行的相关代码。
 
 [This project](https://tangshusen.me/Deep-Learning-with-PyTorch-Chinese) translates the PyTorch official book "Deep learning with PyTorch" (essential excerpt version) into Chinese.
 
@@ -68,9 +68,8 @@
 * [5. 使用神经网络拟合数据](chapter5/5.0.md)
     * [5.1 神经元](chapter5/5.1.md)
     * [5.2 PyTorch的nn模块](chapter5/5.2.md)
-    - [ ] 5.3 nn的子类
+    * [5.3 nn的子类](chapter5/5.3.md)
 
-持续更新中...
 
 ## 5. 声明
 
